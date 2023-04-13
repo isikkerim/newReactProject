@@ -1,0 +1,87 @@
+{
+
+  "result": [
+    { "id":1 ,
+      "type": "Bilim Kurgu, Aksiyon, Macera",
+      "director": "Shane Black",
+      "summary": "Eski bir Özel Kuvvetler askeri olan Quinn McKenna (Boyd Holbrook) Meksika'da paralı bir görevde bulunduğu sırada bir uzaylıyla karşılaşır, bu uzaylı teknolojisine ait bazı parçaları evine gönderir. Ancak oğlu Rory'nin (Jacob Tremblay) bu paketi yanlışlıkla açması, uzayın en derinlerinden korkunç yaratıkların yeniden dünyaya gelmesine neden olur. Üstelik bu yaratıklar, başka gezegenlerdeki varlıklarla gen havuzlarını genişletmiş, iyice güçlenmiştir. Onları durdurabilecek tek güç, bir grup eski asker ve bir de özel hayatındaki sorunlarla mücadele eden fen bilgisi öğretmeni olacaktır.\nThe Predator filmi kronolojik olarak, 1990 yapımı Predator 2 ve 2010 yapımı Predators'ın arasında konumlanıyor.",
+      "name": "Predator",
+      "image": "https://picsum.photos/400/200"
+    },
+    {"id":2 ,
+      "type": "Gizem, Korku",
+      "director": "Trey Edward Shults",
+      "summary": "Paul (Joel Edgerton) vahşi doğanın ortasındki kulübesinde, eşi ve oğluyla birlikte kendine göre bir düzen sağlamayı başarmış bir adamdır. Dışarıdaki belirsiz tehlikelere karşı gündüzleri son derece tedbirli davranan, geceleri kesinlikle kimseyi dışarı çıkarmayan Paul ve ailesinin yanına günün birinde zor durumdaki genç bir aile sığınır. Paul, hepsi için hayati önem taşıyan kurallara yeni misafirlerinin de harfiyen uymasını ister. Ancak 2 ailenin de iyi niyetli çabalarına rağmen dışarıdaki tehdidin yarattığı paranoya, içeride kalanlara hiç de kendilerinden beklemedikleri şeyler yaptıracaktır.",
+      "name": "Gece Gelen",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":11 ,
+      "type": "Gerilim, Gizem, Suç",
+      "director": "Paul Feig",
+      "summary": "Küçük bir kasabada yaşayan, ama internette çektiği günlük videolarla ün kazanmış ev kadını Stephanie Ward'un (Anna Kendrick) hayatı, en yakın arkadaşı Emily Nelson'ın (Blake Lively) bir iz bırakmadan kaybolmasıyla alt üst olur. Tüm vaktini Emily'nin izini aramaya adayan Stephanie'ye Emily’nin kocası Sean (Henry Golding) da yardımcı olmaya çalışacak, bazı sırlar ortaya çıktıkça öyküye dahil olan herkesin hayatı değişecektir.\nKüçük Bir Rica filmi, Amerikalı yazar Darcey Bell'in aynı adlı romanından sinemaya uyarlandı.",
+      "name": "Küçük Bir Rica",
+      "image": "https://picsum.photos/200"
+    },  {"id":20 ,
+      "type": "Bilim Kurgu, Aksiyon, Macera",
+      "director": "Shane Black",
+      "summary": "Eski bir Özel Kuvvetler askeri olan Quinn McKenna (Boyd Holbrook) Meksika'da paralı bir görevde bulunduğu sırada bir uzaylıyla karşılaşır, bu uzaylı teknolojisine ait bazı parçaları evine gönderir. Ancak oğlu Rory'nin (Jacob Tremblay) bu paketi yanlışlıkla açması, uzayın en derinlerinden korkunç yaratıkların yeniden dünyaya gelmesine neden olur. Üstelik bu yaratıklar, başka gezegenlerdeki varlıklarla gen havuzlarını genişletmiş, iyice güçlenmiştir. Onları durdurabilecek tek güç, bir grup eski asker ve bir de özel hayatındaki sorunlarla mücadele eden fen bilgisi öğretmeni olacaktır.\nThe Predator filmi kronolojik olarak, 1990 yapımı Predator 2 ve 2010 yapımı Predators'ın arasında konumlanıyor.",
+      "name": "Predator",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":3 ,
+      "type": "Gizem, Korku",
+      "director": "Trey Edward Shults",
+      "summary": "Paul (Joel Edgerton) vahşi doğanın ortasındki kulübesinde, eşi ve oğluyla birlikte kendine göre bir düzen sağlamayı başarmış bir adamdır. Dışarıdaki belirsiz tehlikelere karşı gündüzleri son derece tedbirli davranan, geceleri kesinlikle kimseyi dışarı çıkarmayan Paul ve ailesinin yanına günün birinde zor durumdaki genç bir aile sığınır. Paul, hepsi için hayati önem taşıyan kurallara yeni misafirlerinin de harfiyen uymasını ister. Ancak 2 ailenin de iyi niyetli çabalarına rağmen dışarıdaki tehdidin yarattığı paranoya, içeride kalanlara hiç de kendilerinden beklemedikleri şeyler yaptıracaktır.",
+      "name": "Gece Gelen",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":4 ,
+      "type": "Gerilim, Gizem, Suç",
+      "director": "Paul Feig",
+      "summary": "Küçük bir kasabada yaşayan, ama internette çektiği günlük videolarla ün kazanmış ev kadını Stephanie Ward'un (Anna Kendrick) hayatı, en yakın arkadaşı Emily Nelson'ın (Blake Lively) bir iz bırakmadan kaybolmasıyla alt üst olur. Tüm vaktini Emily'nin izini aramaya adayan Stephanie'ye Emily’nin kocası Sean (Henry Golding) da yardımcı olmaya çalışacak, bazı sırlar ortaya çıktıkça öyküye dahil olan herkesin hayatı değişecektir.\nKüçük Bir Rica filmi, Amerikalı yazar Darcey Bell'in aynı adlı romanından sinemaya uyarlandı.",
+      "name": "Küçük Bir Rica",
+      "image": "https://picsum.photos/200"
+    },  {"id":5 ,
+      "type": "Bilim Kurgu, Aksiyon, Macera",
+      "director": "Shane Black",
+      "summary": "Eski bir Özel Kuvvetler askeri olan Quinn McKenna (Boyd Holbrook) Meksika'da paralı bir görevde bulunduğu sırada bir uzaylıyla karşılaşır, bu uzaylı teknolojisine ait bazı parçaları evine gönderir. Ancak oğlu Rory'nin (Jacob Tremblay) bu paketi yanlışlıkla açması, uzayın en derinlerinden korkunç yaratıkların yeniden dünyaya gelmesine neden olur. Üstelik bu yaratıklar, başka gezegenlerdeki varlıklarla gen havuzlarını genişletmiş, iyice güçlenmiştir. Onları durdurabilecek tek güç, bir grup eski asker ve bir de özel hayatındaki sorunlarla mücadele eden fen bilgisi öğretmeni olacaktır.\nThe Predator filmi kronolojik olarak, 1990 yapımı Predator 2 ve 2010 yapımı Predators'ın arasında konumlanıyor.",
+      "name": "Predator",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":6 ,
+      "type": "Gizem, Korku",
+      "director": "Trey Edward Shults",
+      "summary": "Paul (Joel Edgerton) vahşi doğanın ortasındki kulübesinde, eşi ve oğluyla birlikte kendine göre bir düzen sağlamayı başarmış bir adamdır. Dışarıdaki belirsiz tehlikelere karşı gündüzleri son derece tedbirli davranan, geceleri kesinlikle kimseyi dışarı çıkarmayan Paul ve ailesinin yanına günün birinde zor durumdaki genç bir aile sığınır. Paul, hepsi için hayati önem taşıyan kurallara yeni misafirlerinin de harfiyen uymasını ister. Ancak 2 ailenin de iyi niyetli çabalarına rağmen dışarıdaki tehdidin yarattığı paranoya, içeride kalanlara hiç de kendilerinden beklemedikleri şeyler yaptıracaktır.",
+      "name": "Gece Gelen",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":7 ,
+      "type": "Gerilim, Gizem, Suç",
+      "director": "Paul Feig",
+      "summary": "Küçük bir kasabada yaşayan, ama internette çektiği günlük videolarla ün kazanmış ev kadını Stephanie Ward'un (Anna Kendrick) hayatı, en yakın arkadaşı Emily Nelson'ın (Blake Lively) bir iz bırakmadan kaybolmasıyla alt üst olur. Tüm vaktini Emily'nin izini aramaya adayan Stephanie'ye Emily’nin kocası Sean (Henry Golding) da yardımcı olmaya çalışacak, bazı sırlar ortaya çıktıkça öyküye dahil olan herkesin hayatı değişecektir.\nKüçük Bir Rica filmi, Amerikalı yazar Darcey Bell'in aynı adlı romanından sinemaya uyarlandı.",
+      "name": "Küçük Bir Rica",
+      "image": "https://picsum.photos/200"
+    },  {"id":8 ,
+      "type": "Bilim Kurgu, Aksiyon, Macera",
+      "director": "Shane Black",
+      "summary": "Eski bir Özel Kuvvetler askeri olan Quinn McKenna (Boyd Holbrook) Meksika'da paralı bir görevde bulunduğu sırada bir uzaylıyla karşılaşır, bu uzaylı teknolojisine ait bazı parçaları evine gönderir. Ancak oğlu Rory'nin (Jacob Tremblay) bu paketi yanlışlıkla açması, uzayın en derinlerinden korkunç yaratıkların yeniden dünyaya gelmesine neden olur. Üstelik bu yaratıklar, başka gezegenlerdeki varlıklarla gen havuzlarını genişletmiş, iyice güçlenmiştir. Onları durdurabilecek tek güç, bir grup eski asker ve bir de özel hayatındaki sorunlarla mücadele eden fen bilgisi öğretmeni olacaktır.\nThe Predator filmi kronolojik olarak, 1990 yapımı Predator 2 ve 2010 yapımı Predators'ın arasında konumlanıyor.",
+      "name": "Predator",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":9 ,
+      "type": "Gizem, Korku",
+      "director": "Trey Edward Shults",
+      "summary": "Paul (Joel Edgerton) vahşi doğanın ortasındki kulübesinde, eşi ve oğluyla birlikte kendine göre bir düzen sağlamayı başarmış bir adamdır. Dışarıdaki belirsiz tehlikelere karşı gündüzleri son derece tedbirli davranan, geceleri kesinlikle kimseyi dışarı çıkarmayan Paul ve ailesinin yanına günün birinde zor durumdaki genç bir aile sığınır. Paul, hepsi için hayati önem taşıyan kurallara yeni misafirlerinin de harfiyen uymasını ister. Ancak 2 ailenin de iyi niyetli çabalarına rağmen dışarıdaki tehdidin yarattığı paranoya, içeride kalanlara hiç de kendilerinden beklemedikleri şeyler yaptıracaktır.",
+      "name": "Gece Gelen",
+      "image": "https://picsum.photos/200"
+    },
+    {"id":10 ,
+      "type": "Gerilim, Gizem, Suç",
+      "director": "Paul Feig",
+      "summary": "Küçük bir kasabada yaşayan, ama internette çektiği günlük videolarla ün kazanmış ev kadını Stephanie Ward'un (Anna Kendrick) hayatı, en yakın arkadaşı Emily Nelson'ın (Blake Lively) bir iz bırakmadan kaybolmasıyla alt üst olur. Tüm vaktini Emily'nin izini aramaya adayan Stephanie'ye Emily’nin kocası Sean (Henry Golding) da yardımcı olmaya çalışacak, bazı sırlar ortaya çıktıkça öyküye dahil olan herkesin hayatı değişecektir.\nKüçük Bir Rica filmi, Amerikalı yazar Darcey Bell'in aynı adlı romanından sinemaya uyarlandı.",
+      "name": "Küçük Bir Rica",
+      "image": "https://picsum.photos/200"
+    }
+ 
+  ]
+}
